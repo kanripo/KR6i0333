@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:16:42.026052
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:21
 #+TITLE: 入楞伽心玄義
 #+PROPERTY: CBETA_ID T39n1790
 #+PROPERTY: ID KR6i0333
